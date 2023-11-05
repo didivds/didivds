@@ -20,7 +20,7 @@
 
 ### Perfil: [![blog](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)]
 
-### Busco diariamente conhecimento para meu desenvolvimento profissional e pessoal e aqui no [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)] aumentar minha fronteira de relacionamento profissional! 
+### Busco diariamente conhecimento para meu desenvolvimento profissional e pessoal e aqui no [![blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)] aumentar minha rede de relacionamento profissional! 
 
 
 
